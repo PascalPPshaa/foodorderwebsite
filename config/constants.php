@@ -16,5 +16,5 @@
     }
 
     // Mengatur SITEURL agar dinamis mengikuti domain Vercel
-    define('SITEURL', 'https://' . $_SERVER['HTTP_HOST'] . '/');
+    define('SITEURL', 'https://' . $_SERVER['HTTP_HOST'] . '/');    
 ?>
