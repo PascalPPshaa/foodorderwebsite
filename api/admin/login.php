@@ -1,4 +1,4 @@
-<?php include('../config/constants.php'); ?>
+<?php include('..api/onfig/constants.php'); ?>
 
 <html>
     <head>

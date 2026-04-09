@@ -1,4 +1,4 @@
-<?php include('partials/menu.php'); ?>
+<?php include('api/partials/menu.php'); ?>
 
 <?php 
 

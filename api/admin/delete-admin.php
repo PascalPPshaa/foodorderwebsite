@@ -1,6 +1,6 @@
 <?php 
 
-include('../config/constants.php');
+include('..api/config/constants.php');
 
  $id = $_GET['id'];
 

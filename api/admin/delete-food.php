@@ -1,6 +1,6 @@
 <?php 
 
-include('../config/constants.php');
+include('..api/config/constants.php');
 
 
   if(isset($_GET['id']) && isset($_GET['image_name']) )
