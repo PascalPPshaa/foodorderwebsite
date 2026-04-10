@@ -5,9 +5,21 @@
     }
   },
   "routes": [
-    { "src": "/admin", "dest": "/api/admin/index.php" },
-    { "src": "/admin/(.*)", "dest": "/api/admin/$1" },
-    { "src": "/images/(.*)", "dest": "/api/images/$1" },
-    { "src": "/(.*)", "dest": "/api/$1" }
+    {
+      "src": "/admin",
+      "dest": "/api/admin/index.php"
+    },
+    {
+      "src": "/admin/(.*)",
+      "dest": "/api/admin/$1"
+    },
+    {
+      "src": "/images/(.*)",
+      "dest": "/api/images/$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/api/$1"
+    }
   ]
 }
