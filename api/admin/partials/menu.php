@@ -1,4 +1,4 @@
-<?php include('../config/constants.php');
+<?php include('../api/config/constants.php');
 include('login-check.php');
 
 ?>
